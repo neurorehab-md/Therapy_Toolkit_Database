@@ -1,0 +1,1 @@
+start https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.242-1.b08/java-1.8.0-openjdk-1.8.0.242-1.b08.ojdkbuild.windows.x86_64.msi
